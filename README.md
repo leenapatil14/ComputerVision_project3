@@ -1,5 +1,6 @@
 # ComputerVision_project3
-##Computer Vision class project
+
+Computer Vision class project
 The goal of the project is to implement K-Means Clustering algorithm from scrtach without the use of any numpy or orther libraries.
 It also involves use implementing Median Filtering 
 
