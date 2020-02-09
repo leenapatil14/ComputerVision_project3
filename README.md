@@ -1,9 +1,17 @@
-# ComputerVision_project3
 
-Computer Vision class project
-The goal of the project is to implement K-Means Clustering algorithm from scrtach without the use of any numpy or orther libraries.
-It also involves use implementing Median Filtering 
+# CSE 573 Computer Vision 
+## Language-Python
+### Masters-SEM1
 
-The main challenge faced was to reduce the computational time which was done by skipping similar intensity cells.
+#### K-Means Segmentation Problem and Denoise Problem.
+#### Objective Given:
+1. The goal of this task is to segment image using k-means clustering.
+2. The goal of this task is to denoise image using median filter.
 
-The code works for K=2 and provides reults in about 500 secs.
+#### Tasks performed:
+1. Implemented the K-Means Algorithms without using any pre-defined libraries in pyhton. The main challenge faced was to reduce the computational time which was done by skipping similar intensity cells.
+2. Performed median filtering of am image.
+
+
+##### Issues:
+The code works for K=2 and provides results in about 500 secs.
